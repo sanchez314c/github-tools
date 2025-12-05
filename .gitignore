@@ -1,0 +1,19 @@
+# GitHub Repository Manager - Git Ignore File
+
+# Script outputs and logs
+*.log
+*.tmp
+.DS_Store
+
+# Environment files (may contain sensitive tokens)
+.env
+.gh_token
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# OS files
+Thumbs.db
+._*
